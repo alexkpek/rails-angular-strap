@@ -1,6 +1,6 @@
-# angular-strap-rails
+# rails-angular-strap
 
-angular-strap-rails wraps the [AngularStrap](http://mgcrea.github.io/angular-strap/) framework for use in Rails 3.1 and above.
+rails-angular-strap wraps the [AngularStrap](http://mgcrea.github.io/angular-strap/) framework for use in Rails 3.1 and above.
 
 ## Usage
 
