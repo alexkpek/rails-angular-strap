@@ -11,12 +11,10 @@ Add the following to your Gemfile:
 Add the following directive to your JavaScript manifest file (application.js):
 
     //= require angular-strap
-    //= require angular-strap.tpl
 
 If you desire to require minified AngularStrap files, add the following your JavaScript manifest file (application.js):
 
     //= require angular-strap.min
-    //= require angular-strap.tpl.min
 
 ## Versioning
 
