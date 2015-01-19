@@ -11,6 +11,6 @@ Gem::Specification.new do |s|
   s.authors     = ["Alexander Bobrov"]
   s.email       = "alexander@devvela.com"
   s.files = Dir["{lib,vendor}/**/*"] + ["MIT-LICENSE", "README.md"]
-  s.homepage    = "TODO"
+  s.homepage    = "https://github.com/alexkpek/angular-strap-rails"
   s.license     = "MIT"
 end
