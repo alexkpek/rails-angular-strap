@@ -13,4 +13,6 @@ Gem::Specification.new do |s|
   s.files = Dir["{lib,vendor}/**/*"] + ["MIT-LICENSE", "README.md"]
   s.homepage    = "https://github.com/alexkpek/angular-strap-rails"
   s.license     = "MIT"
+
+  spec.add_dependency "rails-angularjs", ">= 1", "< 1.4.0"
 end

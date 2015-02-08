@@ -8,13 +8,21 @@ Add the following to your Gemfile:
 
     gem 'angular-strap-rails'
 
-Add the following directive to your JavaScript manifest file (application.js):
+Add the following to your Rails JavaScript manifest file:
 
     //= require angular-strap
 
-If you desire to require minified AngularStrap files, add the following your JavaScript manifest file (application.js):
+If you desire to require minified AngularStrap files, add the following:
 
     //= require angular-strap.min
+
+Also there are unstable(snapshot) version of AngularStrap, just add the following:
+
+    //= require angular-strap-unstable
+
+or, minified version:
+
+    //= require angular-strap-unstable.min
 
 ## Versioning
 
