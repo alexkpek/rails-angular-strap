@@ -1,4 +1,4 @@
-# rails-angular-strap
+# rails-angular-strap <a href="http://badge.fury.io/rb/rails-angular-strap"><img src="https://badge.fury.io/rb/rails-angular-strap.svg" alt="Gem Version" height="18"></a>
 
 rails-angular-strap wraps the [AngularStrap](http://mgcrea.github.io/angular-strap/) framework for use in Rails 3.1 and above.
 

@@ -14,5 +14,5 @@ Gem::Specification.new do |s|
   s.homepage  = "https://github.com/alexkpek/angular-strap-rails"
   s.license   = "MIT"
 
-  spec.add_dependency "rails-angularjs", ">= 1", "< 1.4.0"
+  s.add_dependency "rails-angularjs", ">= 1", "< 1.4.0"
 end
