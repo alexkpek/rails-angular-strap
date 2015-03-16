@@ -16,14 +16,6 @@ If you desire to require minified AngularStrap files, add the following:
 
     //= require angular-strap.min
 
-Also there are unstable(snapshot) version of AngularStrap, just add the following:
-
-    //= require angular-strap-unstable
-
-or, minified version:
-
-    //= require angular-strap-unstable.min
-
 ## Versioning
 
-Current version of AngularStrap - 2.1.6
+Current version of AngularStrap - 2.2.1
