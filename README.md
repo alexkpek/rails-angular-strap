@@ -18,4 +18,4 @@ If you desire to require minified AngularStrap files, add the following:
 
 ## Versioning
 
-Current version of AngularStrap - 2.3.1
+Current version of AngularStrap - 2.3.7
